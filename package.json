@@ -1,0 +1,21 @@
+{
+  "name": "secondtest",
+  "version": "1.0.0",
+  "dependencies": {
+    "body-parser": "latest",
+    "express": "^4.17.1",
+    "express-generator": "^4.16.1",
+    "pg": "^8.0.2"
+  },
+  "main": "routes/index.js",
+  "devDependencies": {
+    "cookie-parser": "^1.4.5",
+    "jsonwebtoken": "^8.5.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
